@@ -11,7 +11,7 @@ const HeaderNav = () => (
     </nav>
     <div className="logo light">
       <Link to="/" className="logo-link">
-        <span className="hide-content">I love lamp</span>
+        <span className="hide-content">I love records</span>
         <div className="big-logo" aria-hidden="true">
           <img
             className="small-logo"
